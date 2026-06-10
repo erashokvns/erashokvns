@@ -25,23 +25,39 @@
 
 ## 🎨 About Me
 
-```yaml
-name: Ashok Kumar Verma
-role: Senior UI/UX Developer
-location: New Delhi, India 🇮🇳
-experience: 9+ Years
+<table>
+  <tr>
+    <td valign="top" width="72">
+      <img src="https://avatars.githubusercontent.com/erashokvns" width="64" style="border-radius:50%;" alt="Ashok Kumar Verma"/>
+    </td>
+    <td valign="top">
+      <strong>Ashok Kumar Verma</strong> &nbsp;
+      <img src="https://img.shields.io/badge/Senior%20UI%2FUX%20Developer-6C63FF?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat" /><br/>
+      <sub>📍 New Delhi, India &nbsp;|&nbsp; 🏢 Innefu Labs &nbsp;|&nbsp; 🎓 B.Tech CSE &nbsp;|&nbsp; 🏅 Certified UI/UX Pro</sub>
+    </td>
+  </tr>
+</table>
 
-current_company: Innefu Labs Pvt. Ltd.
-focus:
-  - Enterprise Security Platform UX
-  - Custom OS Interface Design
-  - Design Systems & Component Libraries
-  - Real-time Security Dashboards
+> *"Design is not just what it looks like — it's how it works."*
 
-philosophy: "Design is not just what it looks like — it's how it works."
-```
+I craft **intuitive, user-centered digital experiences** across web and mobile platforms — from zero-to-one product design to large-scale enterprise systems used by 10,000+ agents. My work spans security dashboards, custom OS interfaces, malware analysis tools, and ERP systems — always with a focus on reducing cognitive load and building clarity into complexity.
 
-> 🧠 I craft **intuitive, user-centered digital experiences** across web and mobile platforms — from zero-to-one product design to large-scale enterprise systems used by 10,000+ agents.
+| | |
+|---|---|
+| 🕐 **Experience** | 9+ Years |
+| 👥 **Platform Scale** | 10,000+ agents served |
+| 🚀 **Products Shipped** | 6+ major enterprise platforms |
+| 🧩 **Speciality** | Enterprise security UX · Design systems · Frontend dev |
+
+**Design skills:**
+`UI Design` `UX Research` `Wireframing` `Prototyping` `Interaction Design` `Figma` `Adobe XD` `Sketch` `Zeplin`
+
+**Frontend skills:**
+`HTML5` `CSS3` `SCSS` `JavaScript` `React.js` `Bootstrap` `Tailwind CSS` `Material UI`
+
+**DevOps & Tools:**
+`Git` `GitLab` `CI/CD` `AWS` `Google Analytics` `Google Ads`
 
 ---
 
@@ -76,102 +92,139 @@ philosophy: "Design is not just what it looks like — it's how it works."
 
 ## 🚀 Featured Projects
 
+### 🛡️ Security & EDR
+
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🖥️ Maya OS — Custom Operating System UI
-> **Innefu Labs** | 2021–Present
-
-Designed the complete UI/UX identity for a custom Linux-based OS — from **bootloader screens** to **system applications**.
-
-- 🎨 Custom logo, icons & branding system
-- 📦 LibreOffice interface customization
-- 🖥️ Installer & bootloader UX flows
-- 🔗 Cohesive visual language across all system apps
-
-`Figma` `Adobe XD` `UI Design` `Branding`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 EDR Platform — Enterprise Security Dashboard
-> **Innefu Labs** | 2021–Present
-
-Planned and optimized the UI/UX for an **enterprise EDR platform** serving **10,000+ agents** with real-time threat monitoring.
-
-- 📊 Responsive dashboards for compliance & threat tracking
-- 🔧 New modules: **Vyakhya** & **Cyber Chef**
-- 📑 Structured PDF report generation
-- 📱 Cross-device responsiveness
-
-`HTML` `CSS` `Bootstrap` `Tailwind` `JavaScript`
-
-</td>
+      <h4>🔐 EDR Platform — Enterprise Security</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-2021--Present-6C63FF?style=flat" />
+      <img src="https://img.shields.io/badge/10K%2B%20Agents-success?style=flat" />
+      <br/><br/>
+      Enterprise endpoint detection & response platform with real-time threat monitoring, compliance dashboards, and structured audit reports.
+      <br/><br/>
+      <ul>
+        <li>Responsive dashboards for threat monitoring & compliance tracking</li>
+        <li>New modules: <strong>Vyakhya</strong> & <strong>Cyber Chef</strong> integration</li>
+        <li>Structured PDF audit reports with hardware & score data</li>
+        <li>UX research & iterative refinement to reduce user friction</li>
+      </ul>
+      <code>Figma</code> <code>HTML/CSS</code> <code>Tailwind</code> <code>Bootstrap</code> <code>JS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🦠 Malware Analysis & Monitoring Tool</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-2021--Present-FF6B6B?style=flat" />
+      <img src="https://img.shields.io/badge/MobSF%20Integration-orange?style=flat" />
+      <br/><br/>
+      Interactive analytics dashboard for static & dynamic Android malware detection — visual risk scores, behaviour timelines, and permission analysis.
+      <br/><br/>
+      <ul>
+        <li>Android app mockups for mobile threat monitoring</li>
+        <li>Charts, risk indicators & behavior timelines for complex data</li>
+        <li>MobSF backend integration for live analysis insights</li>
+        <li>WCAG-aligned accessibility improvements</li>
+      </ul>
+      <code>Figma</code> <code>Adobe XD</code> <code>React</code> <code>Data Visualization</code>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🦠 Malware Analysis & Monitoring Tool
-> **Innefu Labs** | 2021–Present
-
-Interactive **security analytics dashboard** for visualizing Android malware analysis — static & dynamic — for analysts and admins.
-
-- 📱 Android app mockups & mobile UI prototypes
-- 📈 Charts, risk scores, behavior timelines
-- 🔗 Integrated with **MobSF** analysis backend
-- ♿ WCAG-aligned accessibility improvements
-
-`Figma` `React` `Data Visualization` `MobSF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Security Monitoring — Security Onion Dashboard
-> **Innefu Labs** | 2021–Present
-
-Security dashboards for a **Security Onion-based** platform — enabling analysts to visualize network traffic, alerts, and host activity in real time.
-
-- 🌐 Network traffic & intrusion detection alerts
-- 📋 Protocol metadata & system logs UI
-- 🔍 Threat detection & case management flows
-- 📐 Wireframes → production-ready interfaces
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-</td>
+      <h4>📡 Security Monitoring Dashboard</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-2021--Present-1D9E75?style=flat&labelColor=0d1117&color=1D9E75" />
+      <img src="https://img.shields.io/badge/Security%20Onion-teal?style=flat" />
+      <br/><br/>
+      Security Onion-based platform for analysts to visualize network traffic, intrusion alerts, and host activity in real time.
+      <br/><br/>
+      <ul>
+        <li>Real-time network traffic & alert visualizations</li>
+        <li>Protocol metadata & system log interfaces</li>
+        <li>Threat detection & case management UX flows</li>
+      </ul>
+      <code>HTML/CSS</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Figma</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 VPN Management Dashboard</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-WireGuard%20Based-9C27B0?style=flat" />
+      <br/><br/>
+      WireGuard-based VPN dashboard for peer-to-peer configuration and monitoring — peer management, key management, and roaming status.
+      <br/><br/>
+      <ul>
+        <li>Peer configuration & key management UX</li>
+        <li>Connection indicators & network performance panels</li>
+        <li>Mobile-optimized roaming workflows</li>
+      </ul>
+      <code>Figma</code> <code>Adobe XD</code> <code>HTML/CSS</code> <code>Bootstrap</code>
+    </td>
   </tr>
+</table>
+
+### 🖥️ OS & Systems
+
+<table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🖥️ Maya OS — Custom Operating System UI</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-2021--Present-E91E8C?style=flat" />
+      <img src="https://img.shields.io/badge/Linux%20Based-gray?style=flat" />
+      <br/><br/>
+      End-to-end visual identity and interface design for a custom Linux OS — from bootloader screens to system apps, icons, and LibreOffice customization.
+      <br/><br/>
+      <ul>
+        <li>Full branding system: logos, icons, system graphics</li>
+        <li>LibreOffice UI customization aligned to Maya OS identity</li>
+        <li>Bootloader & installer UX for smooth first-run experience</li>
+        <li>Cohesive visual language across all system applications</li>
+      </ul>
+      <code>Figma</code> <code>Adobe XD</code> <code>Illustrator</code> <code>Branding</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📋 System Audit Dashboard</h4>
+      <img src="https://img.shields.io/badge/Innefu%20Labs-Air--Gapped%20Env-3F51B5?style=flat" />
+      <img src="https://img.shields.io/badge/Win%20%2B%20Linux-gray?style=flat" />
+      <br/><br/>
+      UI/UX for an Audit Framework performing operational checks on Air-Gapped environments across Windows & Linux platforms.
+      <br/><br/>
+      <ul>
+        <li>Dashboard views for audit reports & operational logs</li>
+        <li>Windows & Linux platform-aware responsive interfaces</li>
+        <li>Complex audit workflows simplified into intuitive user flows</li>
+      </ul>
+      <code>Figma</code> <code>HTML/CSS</code> <code>Bootstrap</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
-### 🔒 VPN Management Dashboard
-> **Innefu Labs** | WireGuard-based
+### 🏢 ERP & Web
 
-Designed a **user-friendly VPN management dashboard** to configure and monitor P2P connections in a WireGuard secure networking environment.
-
-- 🔑 Peer configuration & key management UX
-- 📡 Connection indicators & status panels
-- 📱 Mobile-optimized roaming workflows
-- 🗺️ Visual network performance components
-
-`Figma` `Adobe XD` `HTML` `CSS` `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 System Audit Dashboard
-> **Innefu Labs** | Air-Gapped Environments
-
-UI/UX for an **Audit Framework** performing operational checks on Air-Gapped (Air-GEP) environments across Windows & Linux.
-
-- 🪟 Audit report dashboard views
-- 🐧 Windows & Linux platform-aware UI
-- 📋 Operational logs & system status panels
-- 🔄 Complex audit workflows simplified to intuitive flows
-
-`Figma` `Adobe XD` `HTML` `CSS` `JavaScript`
-
-</td>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗂️ ERP Software Interfaces</h4>
+      <img src="https://img.shields.io/badge/Sahaj%20Infotech-2018--2021-FF9800?style=flat" />
+      <br/><br/>
+      User-friendly ERP dashboards and operational workflows — PSD-to-HTML conversion, payroll mobile app, and React.js web interfaces.
+      <br/><br/>
+      <ul>
+        <li>ERP dashboards with clean operational workflows</li>
+        <li>Payroll mobile app mockups with intuitive mobile UX</li>
+        <li>Secure, interactive React.js web interfaces</li>
+        <li>SEO improvements boosting organic search rankings</li>
+      </ul>
+      <code>Figma</code> <code>React.js</code> <code>HTML/CSS</code> <code>Tailwind</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✈️ Travel Company Website</h4>
+      <img src="https://img.shields.io/badge/StarTrip%20Holidays-2017--2018-00BCD4?style=flat" />
+      <br/><br/>
+      Travel website with responsive tour package pages, booking flows, and promotional design assets across web and social media.
+      <br/><br/>
+      <ul>
+        <li>Responsive HTML pages from PSD mockups</li>
+        <li>Destination banners & package visuals using Adobe suite</li>
+        <li>Social media creatives for Facebook & Instagram campaigns</li>
+      </ul>
+      <code>HTML/CSS</code> <code>JavaScript</code> <code>Photoshop</code> <code>Illustrator</code>
+    </td>
   </tr>
 </table>
 
